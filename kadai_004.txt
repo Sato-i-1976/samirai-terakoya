@@ -1,5 +1,10 @@
- git add hello_world.txt
- git commit -m "hello_world.txtを追加"
- git add hello_world.txt
- git commit -m "日本語訳を追記"
- git log --oneline
+   10  git init
+   11  git status
+   12  git add hello_world.txt
+   13  git commit -m "hello_world.txtを追加"
+   15  git add hello_world.txt
+   16  git commit -m "日本語訳を追記"
+   21  git log --oneline
+   22  history
+
+
